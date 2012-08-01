@@ -1,0 +1,4 @@
+# 4. Applications and notices concerning continuous work and overtime hours
+(1) A declaration by the Minister concerning continuous work and given by notice in terms of section 33(2)(f) of the previous Act and in effect immediately before the effective date, remains in effect as if it had been issued in terms of section 15, subject to the expiry date and any conditions set out in that notice at the time it was issued.
+(2) An application made to the Permanent Secretary in terms of section 32(4)(a) of the previous Act, and pending at the effective date, must be proceeded with as if it were an application in terms of section 17(3).
+(3) A notice increasing maximum overtime issued by the Permanent Secretary in terms of section 32(4)(b) of the previous Act and in effect immediately before the effective date, remains in effect as if it had been issued in terms of section 17, subject to the expiry date and any conditions set out in that notice at the time it was issued.

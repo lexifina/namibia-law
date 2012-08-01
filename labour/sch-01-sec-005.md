@@ -1,0 +1,3 @@
+# 5. Applications and notices concerning Sunday or public holiday work
+(1) An application made to the Permanent Secretary in terms of section 33(2)(e) of the previous Act, and pending at the effective date, must be proceeded with as if it were an application in terms of section 21(3).
+(2) A notice concerning work on Sundays or public holidays issued by the Permanent Secretary in terms of section 33(2)(e) of the previous Act and in effect immediately before the effective date, remains in effect as if it had been issued in terms of section 21 or 22, as the case may be, subject to the expiry date and any conditions set out in that notice at the time it was issued.

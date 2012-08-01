@@ -1,0 +1,17 @@
+# 2. General preservation of rights, duties, regulations, notices and other instruments
+(1) Any right or entitlement enjoyed by, or obligation imposed on, any person in terms of any provision of the previous Act or the 2004 Act, that had not been fulfilled immediately before the effective date must be considered to be a right or entitlement of, or obligation imposed on, that person in terms of any comparable provision of this Act, as from the date that the right, entitlement or obligation first arose.
+(2) Any regulation promulgated in terms of the previous Act or the 2004 Act remains in force as if it had been promulgated under this Act as from the effective date.
+(3) A form determined by the Permanent Secretary for use in terms of the previous Act or the 2004 Act and in use immediately before the effective date, is an acceptable form for a comparable purpose contemplated in this Act, as if it had been prescribed in terms of this Act as from the effective date until a new form is determined.
+(4) A notice given by any person to another person in terms of any provision of the previous Act or the 2004 Act must be considered as notice given in terms of any comparable provision of this Act, as from the date that the notice was given under the previous Act or the 2004 Act.
+(5) An agreement between an employee and employer, a request or an authorisation given by an employee to an employer, in terms of or as contemplated in any provision of the previous Act or the 2004 Act, and in effect immediately before the effective date, continues in effect, as if it had been made in terms of this Act, or as contemplated by a provision of this Act, subject to -
+(a) any condition of the agreement, request or authorisation at the time it was given, whether expressed by the employee, or imposed by a provision of the previous Act; and
+(b) this Act.
+(6) Permission given by a person to another person in terms of, or as contemplated in, any provision of the previous Act, and in effect immediately before the effective date, continues in effect, as if it had been made in terms of this Act, or as contemplated by a provision of this Act, subject to -
+(a) any condition imposed at the time it was given, whether expressed, or imposed by a provision of the previous Act; and
+(b) this Act.
+(7) An assignment by the President in terms of section 102(1) of the previous Act, and in effect immediately before the effective date, continues in effect, subject to the provisions of this Act.
+(8) A document that, before the effective date, had been served in accordance with section 113 of the previous Act must be regarded as having been satisfactorily served for the purposes of this Act.
+(9) An order of the Labour Court, a District Labour Court, or a labour inspector, issued in terms of any provision of the previous Act, and in effect immediately before the effective date, continues in effect, subject to the provisions of this Act.
+(10) An exemption granted by the Minister in terms of section 114 of the previous Act is deemed to have been granted in terms of the corresponding provision of this Act, and continues in effect on and after the effective date, subject to this Act.
+(11) A delegation of authority made in terms of section 115 of the previous Act, and in effect immediately before the effective date, continues in effect on and after the effective date, until it is rescinded.
+(12) Despite the repeal of the previous Act, the effect of each provision of section 116 of the previous Act survives as if that section were a provision of this Act.

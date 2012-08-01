@@ -1,0 +1,3 @@
+# Long title
+ACT
+To consolidate and amend the labour law; to establish a comprehensive labour law for all employers and employees; to entrench fundamental labour rights and protections; to regulate basic terms and conditions of employment; to ensure the health, safety and welfare of employees; to protect employees from unfair labour practices; to regulate the registration of trade unions and employers' organisations; to regulate collective labour relations; to provide for the systematic prevention and resolution of labour disputes; to establish the Labour Advisory Council, the Labour Court, the Wages Commission and the labour inspectorate; to provide for the appointment of the Labour Commissioner and the Deputy Labour Commissioner; and to provide for incidental matters.
