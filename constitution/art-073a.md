@@ -1,0 +1,4 @@
+# Article 73A — Secretary and other Officers
+(1) Subject to the laws of Namibia regulating the appointment of Parliamentary staff, and the directives of the National Council, the Chairperson shall appoint or if such laws prescribe a different procedure for the appointment of the Secretary, designate the person holding the appropriate post as the Secretary of the National Council, who shall perform the functions and duties assigned to such Secretary by this Constitution or by the Chairperson.
+(2) Subject to the laws governing the control of public monies, the Secretary shall perform his or her functions and duties under the control of the Chairperson.
+(3) The Secretary shall be assisted by officers of the National Council who shall be persons appointed in accordance with the laws referred to in Sub-Article (1).

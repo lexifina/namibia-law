@@ -1,0 +1,18 @@
+# Schedule 8
+Repeal Of Laws
+South-West Africa Constitution Act, 1968 (Act No. 39 of 1968)
+Rehoboth Self-Government Act, 1976 (Act No. 56 of 1976)
+Establishment of Office of Administrator-General for the Territory of South-West Africa Proclamation, 1977 (Proclamation No. 180 of 1977 of the State President)
+Empowering of the Administrator-General for the Territory of South-West Africa to make Laws Proclamation, 1977 (Proclamation No. 181 of 1977 of the State President)
+Representative Authorities Proclamation, 1980 (Proclamation AG. 8 of 1980)
+Representative Authority of the Whites Proclamation, 1980 (Proclamation AG. 12 of 1980)
+Representative Authority of the Coloureds Proclamation, 1980 (Proclamation AG. 14 of 1980)
+Representative Authority of the Ovambos Proclamation, 1980 (Proclamation AG. 23 of 1980)
+Representative Authority of the Kavangos Proclamation, 1980 (Proclamation AG. 26 of 1980)
+Representative Authority of the Caprivians Proclamation, 1980 (Proclamation AG. 29 of 1980)
+Representative Authority of the Damaras Proclamation, 1980 (Proclamation AG. 32 of 1980)
+Representative Authority of the Namas Proclamation, 1980 (Proclamation AG. 35 of 1980)
+Representative Authority of the Tswanas Proclamation, 1980 (Proclamation AG. 47 of 1980)
+Representative Authority of the Hereros Proclamation, 1980 (Proclamation AG. 50 of 1980)
+Representative Authority Powers Transfer Proclamation, 1989 (Proclamation AG. 8 of 1989)
+Government of Rehoboth Powers Transfers Proclamation, 1989 (Proclamation AG. 32 of 1989)

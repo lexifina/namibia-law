@@ -1,0 +1,8 @@
+# Article 110A — Regional Governors
+(1) The President shall appoint Regional Governors as political heads of the regions, and an Act of Parliament shall further prescribe their powers and functions.
+(2) Regional Governors shall serve at the pleasure of the President.
+(3) Subject to this Constitution or any other law, a Regional Governor shall oversee the exercise of any executive function of Government in the region for which he or she is the Regional Governor, and he or she shall be the link between the central Government and the Regional Council, Local Authorities and Traditional Leaders in the region concerned.
+(4) In the performance of his or her functions, a Regional Governor may in writing require the Regional Council of the region of which he or she is the Regional Governor to convene urgent special sessions and address any matter.
+(5) A Regional Governor shall attend a meeting of the Regional Council of the region for which he or she is the Regional Governor once every year, which meeting shall occur after the President and Cabinet attend Parliament in terms of Article 32(2) hereof.
+(6) During the meeting referred to in Sub-Article (5), the Regional Governor shall address the Regional Council on the state of the region, planned activities of the central Government in the region, report on the activities of the central Government of the previous year in the region and be available to respond to questions.
+(7) The President or the Minister responsible for regional government may assign further functions to Regional Governors and Regional Governors shall report to the President.
