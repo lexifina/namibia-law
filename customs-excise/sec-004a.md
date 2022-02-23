@@ -1,0 +1,19 @@
+# 4A. Exchange of information and confidentiality
+(1) The Commissioner, an officer or a staff member of the customs and excise office or any person seconded to or contracted by the customs and excise office to work otherwise than as a staff member and a person who was formerly an officer, staff member or a person seconded to or a person contracted by the customs and excise office, shall not disclose, exchange or allow access to any information relating to any person, concern or business acquired in the exercise of his or her powers or the performance of his or her duties in terms of this Act, unless required to do so -
+(a) by a provisions of this Act;
+(b) as a witness in a court of law or tribunal;
+(c) in connection with legal proceedings;
+(d) by a government office, ministry or agency of Namibia in terms of a law; or
+(e) by the written consent of the person that will be affected by the disclosure.
+(2) Notwithstanding subsection (1), the Commissioner may authorize the disclosure or exchange of information relating to any person, concern or business which relates to the application of customs procedures, pursuant to a memorandum of understanding with a government office, ministry or agency of Namibia, for the purposes of facilitating trade and improving national security.
+(3) A person, including a third party, to whom or with whom information is disclosed or exchanged under this section, shall use the information only for the purpose for which it was disclosed or exchanged.
+(4) Notwithstanding subsection (1), the Commissioner may in accordance with an international agreement, in respect of customs co-operation and which is binding on Namibia, disclose or exchange or authorize an officer or a staff member of the customs and excise office or any person seconded to or contracted by the customs and excise office, to disclose or exchange any information relating to any person, concern or business acquired by the officer, staff member or person in the exercise of his or her powers or the performance of his or her duties in terms of this Act.
+(5) Disclosure or exchange of confidential information to the customs administrations and other competent authorities of countries or territories outside the customs territory of Namibia shall be permitted only in accordance with an international agreement which is binding on Namibia.
+(6) The disclosure or exchange of information under subsection (5), shall take place in full compliance with the data protection legislation in force in Namibia and if there is assurance that the customs administration of the receiving country will protect the information in at least an equivalent way.
+(7) Information to be disclosed or exchanged under subsections (1)(d), (2) and (4) may be disclosed or exchanged by means of electronic communication in the form determined by the Commissioner.
+(8) Subsection (1), shall not be construed as preventing the Commissioner from using, any information acquired by him or her in the exercise of his or her powers or the performance of his or her duties under this Act or under any other law administered by the Commissioner, for purposes of exercising his or her powers or performing of his or her duties under this Act or any other customs legislation administered by him or her.
+(9) The Commissioner may, notwithstanding subsection (1), from time to time by notice in the Gazette publish the name of any person in respect of whom a penalty of N$10 000 or more has been imposed in respect of any offence contemplated in sections 90, 93, or 94, or has in respect of any offence under this Act been imposed under section 101.
+(10) A notice published under subsection (9) shall specify:
+(a) the name and address of the person;
+(b) such particulars relating to the offence as the Commissioner may determine; and
+(c) the penalty imposed in respect of the offence, contemplated in that subsection.

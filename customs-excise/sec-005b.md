@@ -1,0 +1,10 @@
+# 5B. Electronic communication for the purposes of customs procedures and customs controls
+(1) If any information, declaration, report, application, document or communication is required to be submitted to the customs and excise office in terms of this Act, such information, declaration, report, application, document or communication may be submitted to the customs and excise office by means of an electronic communication, in the form prescribed by the Permanent Secretary.
+(2) If in terms of this Act, a person is required to sign any information, declaration, report, application, document or communication and that information, declaration, report, application, document or communication is submitted by means of an electronic communication, it must -
+(a) be electronically signed in the manner prescribed by the Permanente Secretary, or
+(b) be printed and signed manually, and be delivered to the customs and excise office.
+(3) If in terms of this Act, a person is required to make any payment, electronically or to submit to the customs and excise office any information, declaration, report, application, document or communication in a specific electronic form, the -
+(a) Commissioner may condone any inability by that person to make payment electronically or to submit the information, declaration, report, application, document or communication in a specific electronic form; and
+(b) customs and excise office may accept the payment in cash or in another form determined by the Commissioner or the information, declaration, report, application, document or communication in paper form within such period and at such place as the Commissioner may determine.
+(4) Irrespective of whether an application for a license, permit or approval is, in terms of this Act, submitted manually or electronically, the Commissioner, on approval of an application, may issue the license, permit or approval electronically.
+(5) If any person is liable for any payment in terms of this Act, the Commissioner may accept or receive such payment electronically in the form determined by the Commissioner.
