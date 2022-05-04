@@ -39,6 +39,7 @@
 [Government Notice 79 of 2021 (GG 7507)]
 [Government Notice 18 of 2022 (GG 7743)]
 [Government Notice 317 of 2022 (GG 7922)]
+[Government Notice 215 of 2022 (GG 7868)]
 [Schedule 1 would have been amended by Government Notice 14 of 2002 (GG 2688), under the authority of section 54(2)(a)(v) of the Act. However, this Government Notice was to be brought into force by notice in the Gazette and no such notice has been located.]
 [Schedule 1 was also amended by Government Notice 61 of 2007 (GG 3817), but this Government Notice was withdrawn by Government Notice 97 of 2008 (GG 4038).]
 [Amended versions of Schedules 1-8 are contained in the "Harmonised Customs Tariffs Book", which can be accessed by any member of the public at offices of the Ministry of Finance.]
