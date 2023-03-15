@@ -1,0 +1,15 @@
+# 34C. Deduction or withholding of tax on interest
+(1) Despite section 34B, the withholding tax on interest is deducted or withheld by any Namibian banking institution or Namibian unit trust scheme from any amount referred to in section 34A and paid to the Minister in terms of section 34D.
+(2) A banking institution or unit trust scheme which is required to make a payment to the Minister in terms of subsection (1) is personally liable for making such payment, and the amount so payable -
+(a) is, for the purposes of this section, deemed to be a tax due by such institution or scheme; and
+(b) is recoverable from such institution or scheme in the manner prescribed in section 83.
+(3) The banking institution or unit trust scheme from whom the tax in subsection (2) is recovered in terms of section 83 has the right of recovery from the person who is liable for the tax in terms of section 34B.
+(4) Any amount which is paid by the banking institution or unit trust scheme and which is in excess of the withholding tax due may be set-off against future withholding tax payable, and if such excess amounts cannot be set-off against future payments, the Minister must refund the excess payments to the institution or scheme.
+(5) Any tax withheld by the banking institution or unit trust scheme which is in excess of the withholding tax due must be refunded or credited by the institution, scheme or savings bank to the person from whose interest it was deducted or withheld.
+(6) The banking institution or unit trust scheme must issue a certificate in a prescribed form within 60 days after the last day of February each year in respect of tax withheld in excess of N$100 to every person or partnership to whom or in whose favour amounts referred to in section 34A were paid or have accrued, or to every agent or person acting on behalf of undisclosed principals where the interest accrued or were paid to or in favour of the undisclosed principals, and a certificate must show -
+(a) the total amounts of interest paid or accrued; and
+(b) the amounts of tax withheld on or after first March of any year and ending on the last day of February following that date,
+provided that if funds are invested in a banking institution or unit trust scheme by a stock broker acting on behalf of undisclosed principals, the banking institution or unit trust scheme may issue one certificate to the stock broker for the total amount of tax withheld in respect of funds invested in this manner and the stock broker must then issue certificates to the undisclosed principals.
+(7) The unit trust scheme must issue a return to the Minister in a prescribed form within 60 days after the last day of each financial year in respect of tax withheld in terms of the deemed distribution as contemplated in section 34A(4) and the return must show -
+(a) the total amount of the net interest accrued to or in favour of the unit trust scheme and not distributed by the unit trust scheme to its unit holders before the end of the financial year; and
+(b) the amount of withholding tax on the net interest deemed to be distributed.

@@ -1,0 +1,49 @@
+# Schedule 1
+COMPUTATION OF TAXABLE INCOME DERIVED FROM PASTORAL, AGRICULTURAL OR OTHER FARMING OPERATIONS
+(Section 27 of this Act)
+1. In this Schedule -
+(a) a reference to a year of assessment shall in the case of any taxpayer who has under the provisions of subsection (11) of section 56 of this Act been permitted to furnish accounts in respect of the income derived by him from pastoral, agricultural or other farming operations made up to a date other than the last day of the relevant year of assessment, be construed as a reference to the period covered by such accounts; and
+(b) a reference to the end of a year of assessment includes, where the period assessed ends on a date other than the last day of the year of assessment, a reference to the end of that period.
+2. Every farmer shall include in his or her return of income rendered for a tax year a reconciliation of livestock in the prescribed manner.
+3. The value of livestock or produce on hand at the end of the 2000 year of assessment shall be claimed as a deduction from income derived from farming in the 2001 year of assessment.
+4.
+5.
+6.
+6A.
+7.
+8.
+9. If during any year of assessment livestock or produce has been donated by any farmer or has, for purposes other than that of the production to him of income from sources within Namibia, been removed by him from Namibia, there shall be included in the income of such farmer for that year of assessment an amount equal to the price which in the opinion of the Minister is the current market price of such livestock or produce.
+10. (1) Subject to the provisions of subparagraphs (2), (3), (4), (5), (6), (7) and (8) there shall be allowed as deductions in the determination of the taxable income derived by any farmer, the expenditure incurred by him during the year of assessment in respect of -
+(a) dipping tanks;
+(b) dams, wells, drinking troughs, irrigation schemes, boreholes and pumping plants;
+(c) the prevention of soil erosion;
+(d) the erection of buildings or acquisition of any structure used in connection with farming operations other than those used for domestic purposes of persons who are not employees of such farmer;
+(e) wire and stone, brick or concrete kraals;
+(f) fences;
+(g) fire breaks;
+(h) the eradication of bush and noxious plants;
+(i) the establishment of orchards and vineyards;
+(j) the building of roads and bridges used for farming operations;
+(k)
+(l) The carrying of electric power from the main transmission lines to the farm apparatus or under an agreement concluded with a supplier of electricity in terms of which the farmer has undertaken to bear a portion of the cost incurred by the supplier in connection with the supply of electric power consumed by the farmer wholly or mainly for farming purposes.
+(2) Where any farmer (other than a company) would, in respect of the year of assessment ending 28 February, 1982, have been entitled under paragraph 10(1A) of Schedule 2 to the Income Tax Ordinance, 1974 (Ordinance 5 of 1974), to a deduction with regard to machinery, implements, utensils or articles, such deduction shall in respect of the said year of assessment be granted as though the said Ordinance were not repealed.
+(3) (a) Where any asset in respect of which any deduction has been allowed to a farmer under the provisions of subparagraph (1) or (2) or the corresponding provisions of any previous income tax law (whether in the current or any previous year of assessment) and which is or has become a movable asset, is disposed of by the farmer, there shall be included in his income so much of the amounts received by or accrued to or in favour of the farmer in respect of such disposal as does not exceed the expenditure in respect of such asset allowed under subparagraph (1) or the original cost to him of such asset taken into account under subparagraph (2), as the case may be.
+(b) Where any allowance was granted in respect of such asset under the provisions of section 17(1)(e) of this Act the provisions of section 14(4) of this Act shall not apply in respect of any amount recovered or recouped in respect of such allowance.
+(4) For the purposes of this paragraph, where any asset in respect of which any deduction has been allowed to a farmer under the provisions of subparagraph (1) or (2) or the corresponding provisions of any previous income tax law (whether in the current or any previous year of assessment) and which is or has become a movable asset, is disposed of by the farmer to any other person by way of donation or for a consideration, which, in the opinion of the Minister, is not an adequate consideration or is not readily capable of valuation, a consideration equal in value to an amount determined by the Minister as the fair value of such asset shall be deemed to have been received by the farmer in respect of his disposal of the asset and to have been paid by such other person in respect of his acquisition of the asset: Provided that the amount so determined shall not exceed the cost to the farmer of such asset.
+(4A) Where any asset in respect of which any deduction has been allowed to a farmer under subparagraph (1) or (2) or the corresponding provisions of any previous income tax law (whether in the current year or any previous year of assessment) and which is or has become a movable asset -
+(a) is withdrawn from farming operations for use for non-farming operations; or
+(b) is removed from Namibia,
+there must be included in such farmer's income an amount which, to the satisfaction of the Minister, is the market value of such asset, but such amount may not exceed the amount that had been or will be allowed as a deduction.
+(5)
+(6) The total amount allowable as deductions to any farmer under items (a) to (l), inclusive, of subparagraph (1) and under subparagraph (2) in any year of assessment shall not exceed the taxable income (as calculated before allowing the said deductions) derived by such farmer from farming operations during that year of assessment: Provided that the amount by which the total expenditure incurred by any farmer during any year of assessment in respect of the matters referred to in the said items exceeds the taxable income (calculated as aforesaid) derived by him from farming operations during that year of assessment shall be carried forward and be deemed for the purposes of subparagraph (1) to be expenditure which has been incurred by him during the next succeeding year of assessment and for the purposes of this proviso any amount which has been carried forward from the year of assessment ended the last day of February, 1981, in the case of a farmer that is not a company, or from the financial year ended before 1 March, 1982, in the case of a farmer that is a company, in terms of the corresponding provisions of any previous income tax law, shall be deemed to be an amount which has been so carried forward in terms of this proviso.
+(7) (a) For the purposes of this paragraph "employees", in relation to any farmer, means persons employed by that farmer in connection with his farming operations, but does not include his relatives or, where the farmer is a company, the shareholders (or the relatives of shareholders) in that company or in any company which is associated with it by virtue of shareholding.
+(b) For the purposes of item (a) "shareholders" in relation to any company does not include persons who hold all their shares in that company solely because they are employed by that company and who will, in terms of the articles of association of that company, not be entitled to hold those shares after they cease to be so employed.
+(8) The aggregate of all the deductions allowed under item (d) of subparagraph (1) or the corresponding provisions of any previous income tax law to any farmer in respect of the erection of any buildings or the acquisition of any structure used for the domestic purposes of any one of such farmer's employees shall not exceed the sum of R$50 000.
+11. (1) If it is proved to the satisfaction of the Minister that any farmer -
+(i) has in any year of assessment sold livestock on account of drought, stock disease or damage to grazing by fire or plague; and
+(ii) has within four years after the close of the said year of assessment purchased livestock to replace the livestock so sold,
+the cost of the livestock so purchased shall notwithstanding anything in this Schedule contained, be allowed, at the option of such farmer, as a deduction in the determination of his taxable income for the year of assessment during which the livestock was so sold, provided the claim for such deduction is made within five years after the close of that year of assessment.
+(2) The cost of livestock so allowed as a deduction shall not be allowed as a deduction in the year of assessment in which the purchases were made.
+(3) Every farmer who desires to claim a deduction in terms of subparagraph (1), shall with his return of income for the year of assessment in which he sold livestock on account of drought, stock disease or damage to grazing by fire or plague or within such period as the Minister may allow notify the Minister accordingly and furnish full particulars in regard to the livestock so sold.
+(4) Notwithstanding anything contained in the preceding provisions of this paragraph, the Minister shall, until proof has been submitted to him as provided in subparagraph (1), assess and recover any tax payable by a farmer in respect of any year of assessment in which livestock has been sold as aforesaid, as if the said paragraph had not been enacted: Provided that if proof is submitted to the satisfaction of the Minister in terms of the said paragraph he shall revise the assessment concerned and refund to the farmer so much of the amount paid by him as exceeds the amount found to be payable after allowing the deduction referred to in the said paragraph.
+12.

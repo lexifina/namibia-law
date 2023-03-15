@@ -1,0 +1,2 @@
+# 94A. ***
+[Section 94A is inserted by AG 10 of 1985 and deleted by Act 5 of 1997, with this deletion deemed to have come into force (a) in the case of any taxpayer other than a company, at the beginning of the year of assessment commencing on or after 1 March 1997; and (b) in the case of any taxpayer which is a company, at the beginning of the year of assessment of such company commencing on or after 1 January 1997 (section 12(a) of Act 5 of 1997).]

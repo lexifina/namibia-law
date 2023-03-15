@@ -1,0 +1,2 @@
+# 83D. Liability of shareholders for tax debts
+A person who is a shareholder of a company or member of a close corporation is liable to pay the unpaid tax to the extent that the tax debt arose during the time the person so served as such shareholder or such member, and in case of more than one person, such persons are liable jointly and severally to pay the unpaid tax to the extent that the tax debt arose during the time the persons so served as such shareholders or such members.
