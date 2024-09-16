@@ -10,11 +10,11 @@
 "purchase" includes the improving of a private residence; and
 "remuneration" shall have the meaning assigned to that word in paragraph (1) of Part I of Schedule 2, but excluding any housing benefit, leave pay, honorarium, gratuity, overtime pay or refund or contributions referred to in paragraph (d) of the definition of "gross income" in section 1.
 (2) The cash equivalent of a housing benefit referred to in paragraph (a) of the definition of "housing benefit" in subsection (1) shall, in the case of a person whose remuneration for the year of assessment -
-(a) does not exceed R15 000, be exempt from tax; or
-(b) exceeds R15 000, but not R30 000, be reduced -
+(a) does not exceed N$15 000, be exempt from tax; or
+(b) exceeds N$15 000, but not N$30 000, be reduced -
 (i) by an amount equal to such percentage of such cash equivalent as determined in accordance with the formula -
 [image]
-in which formula y represents the percentage to be determined and x the amount of the said remuneration which exceeds R15 000; and
+in which formula y represents the percentage to be determined and x the amount of the said remuneration which exceeds N$15 000; and
 (ii) by an additional amount equal to one-third of such cash equivalent, after deduction of the amount determined in accordance with subparagraph (i).
 (3) In any case where the provisions of subsection (2) do not apply, an amount equal to one-third of the cash equivalent of any housing benefit shall be exempt from tax.
 (4) The Minister shall not approve any scheme for the purposes of this section unless he or she is satisfied that -

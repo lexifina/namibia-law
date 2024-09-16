@@ -2,13 +2,13 @@
 1. Rates of normal tax (Section 6)
 Taxable amount | Rates of tax
 Where the taxable amount -
-(a) does not exceed N$50 000 | no tax payable
-(b) exceeds N$50 000 but does not exceed N$100 000 | 18 per cent of the amount by which the taxable amount exceeds N$50 000
-(c) exceeds N$100 000 but does not exceed N$300 000 | N$9 000 plus 25 per cent of the amount by which the taxable amount exceeds N$100 000
-(d) exceeds N$300 000 but does not of exceed N$500 000 | N$59 000 plus 28 per cent of the amount by which the taxable amount exceeds N$300 000
-(e) exceeds N$500 000 but does not exceed N$800 000 | N$115 000 plus 30 per cent of the amount by which the taxable amount exceeds N$500 000
-(f) exceeds N$800 000 but does not exceed N$1 500 000 | N$205 000 plus 32 per cent of the amount by which the taxable amount exceeds N$800 000
-(g) exceeds N$1 500 000 | N$429 000 plus 37 per cent of the amount by which the taxable amount exceeds N$1 500 000
+(a) does not exceed N$100 000 | no tax payable
+(b) exceeds N$100 000 but does not exceed N$150 000 | 18 per cent of the amount by which the taxable amount exceeds N$100 000
+(c) exceeds N$150 000 but does not exceed N$350 000 | N$9 000 plus 25 per cent of the amount by which the taxable amount exceeds N$150 000
+(d) exceeds N$350 000 but does not of exceed N$550 000 | N$59 000 plus 28 per cent of the amount by which the taxable amount exceeds N$350 000
+(e) exceeds N$550 000 but does not exceed N$850 000 | N$115 000 plus 30 per cent of the amount by which the taxable amount exceeds N$550 000
+(f) exceeds N$850 000 but does not exceed N$1 550 000 | N$205 000 plus 32 per cent of the amount by which the taxable amount exceeds N$850 000
+(g) exceeds N$1 550 000 | N$429 000 plus 37 per cent of the amount by which the taxable amount exceeds N$1 550 000
 2. If any income has been derived by a married person (hereinafter referred to as the first spouse) -
 (a) from his or her spouse (hereinafter referred to as the second spouse);
 (b) from any trade practised by the first spouse in partnership or association with the second spouse, or which trade is in any way connected with any trade practised by the second spouse; or
@@ -16,7 +16,9 @@ Where the taxable amount -
 (d) from any private company of which the second spouse was at such time the sole or main shareholder or one of the principal shareholders,
 and if such income exceeds the amount of income to which the first spouse would reasonably be entitled, having regard to the nature of the relevant trade, partnership or company, the extent of the first spouse's participation therein and the services rendered by the first spouse, such excess amount as determined by the Minister, shall be deemed to be income of the second spouse.
 3. (1) Subject to subparagraph (2), the rates of normal tax to be levied in respect of the taxable income derived by a company shall be as follows:
-(a) on each N$ of taxable income derived from a source other than mining, 32 cents;
+(a) on each N$ of taxable income derived from a source other than mining=
+(i) 31 cents in respect of the year of assessment on or after 1 January 2024; and
+(ii) 30 cents in respect of any year of assessment on or after 1 January 2025;
 (b) on each N$ of taxable income derived from mining of a mineral or substance other than diamonds, or from services rendered by such company in connection with such mining on behalf of any person licensed to conduct such mining operations, 37,5 cents;
 (c) on each N$ of taxable income derived from the mining of diamonds, or from services rendered by such company in connection with the mining for diamonds on behalf of any person licensed to conduct such mining operations, 50 cents: Provided that there shall be added to the amount of tax determined in accordance with this paragraph a surcharge equal to 10% of that amount.
 (d) any amount referred to in paragraph (h) of the definition of "gross income" in section 1, section 14(4) and section 18(2) which is received or recouped by a company referred to in items (b) and (c) shall be taxed at the same rate which is applicable to the taxable income of such company.
