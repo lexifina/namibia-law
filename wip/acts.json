@@ -1,0 +1,53 @@
+{
+ "retrieved": "2026-10-28",
+ "lii": {
+  "name": "NamibLII",
+  "hosts": ["namiblii.org"],
+  "cc": "na",
+  "path_prefixes": [""],
+  "listing_prefix": "/en"
+ },
+ "cdx_prefixes": ["namiblii.org/akn/na/act/", "www.namiblii.org/akn/na/act/"],
+ "country": {
+  "code": "NA",
+  "name": "Namibia",
+  "slug": "namibia",
+  "lang": "en",
+  "tz": "Africa/Windhoek",
+  "future_branch": "future",
+  "publisher": {"name": "NamibLII", "email": "namiblii@namiblii.invalid"},
+  "default_in_force_rule": {
+   "text": "Not applied: every version is dated by NamibLII's own expression date, the day the amendment it incorporates took effect as Laws.Africa records it. No date is computed from a default rule.",
+   "source": "https://namiblii.org/legislation/"
+  },
+  "licence_note": "Source: NamibLII (https://namiblii.org), licensed under the Creative Commons Attribution-NonCommercial 4.0 International licence (CC BY-NC 4.0)."
+ },
+ "sources": [
+  {
+   "name": "NamibLII (Namibia Legal Information Institute: Law Reform and Development Commission, Ministry of Justice, on the Laws.Africa Peachjam platform)",
+   "url": "https://namiblii.org",
+   "retrieved": "2026-10-28",
+   "requests": "count",
+   "licence": "CC BY-NC 4.0, crediting NamibLII as the source (https://namiblii.org/en/terms-of-use/, section 9)",
+   "notes": "Point-in-time expressions of each act, /akn/na/act/<year>/<num>/eng@<date>. NamibLII's terms prohibit scraping and bulk downloading and its robots.txt sends Content-Signal ai-train=no, so no NamibLII document page was fetched: each expression page is read from an Internet Archive capture (raw id_ form), pinned with its sha256 in sources.json. NamibLII itself was asked only for robots.txt, its terms of use and its open legislation listing page, one per act. Request count covers both."
+  },
+  {
+   "name": "Internet Archive Wayback Machine",
+   "url": "https://web.archive.org",
+   "retrieved": "2026-10-28",
+   "requests": null,
+   "licence": "Archived copies of NamibLII pages; the content licence is NamibLII's",
+   "notes": "One CDX prefix listing (namiblii.org/akn/na/act/) for discovery, then https://web.archive.org/web/<timestamp>id_/<original url> for the page bytes, through the shared adaptive client scripts/gitlaw_common/wayback.py. Common Crawl was not usable: NamibLII's robots.txt disallows CCBot."
+  }
+ ],
+ "acts": [
+  {"work": "1990/constitution", "slug": "constitution", "short": "Constitution", "title": "Namibian Constitution", "label": "Namibian Constitution (Government Gazette 2 of 1990)"},
+  {"work": "1977/51", "slug": "criminal-procedure", "short": "CPA 1977", "title": "Criminal Procedure Act, 1977", "label": "Act 51 of 1977"},
+  {"work": "2007/11", "slug": "labour", "short": "Labour Act", "title": "Labour Act, 2007", "label": "Act 11 of 2007"},
+  {"work": "2004/28", "slug": "companies", "short": "Companies Act", "title": "Companies Act, 2004", "label": "Act 28 of 2004"}
+ ],
+ "decisions": [],
+ "ai_use": [
+  "Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the fetch script and configuration and chose the acts. No model wrote, summarised or transformed legal text: parse.py is the shared adapter's deterministic code."
+ ]
+}
