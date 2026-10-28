@@ -1,99 +1,109 @@
 {
  "acts": {
-  "constitution": [
-   {
-    "from": "2014-10-13",
-    "units": 167,
-    "changed": 0,
-    "credited": 0
-   }
-  ],
-  "constitution:listing": {
-   "lii_current": "2014-10-13",
-   "ours": "2014-10-13",
-   "ok": true
-  },
-  "labour": [
-   {
-    "from": "2012-08-01",
-    "units": 165,
-    "changed": 0,
-    "credited": 0
-   },
-   {
-    "from": "2023-03-15",
-    "units": 165,
-    "changed": 1,
-    "credited": 1
-   }
-  ],
-  "labour:listing": {
-   "lii_current": "2023-03-15",
-   "ours": "2023-03-15",
-   "ok": true
-  },
   "companies": [
    {
-    "from": "2017-01-16",
-    "units": 458,
     "changed": 0,
-    "credited": 0
+    "credited": 0,
+    "from": "2017-01-16",
+    "units": 458
    },
    {
-    "from": "2023-03-15",
-    "units": 458,
     "changed": 5,
-    "credited": 5
+    "credited": 5,
+    "from": "2023-03-15",
+    "units": 458
    },
    {
-    "from": "2023-07-21",
-    "units": 459,
     "changed": 4,
-    "credited": 4
+    "credited": 4,
+    "from": "2023-07-21",
+    "units": 459
    }
   ],
   "companies:listing": {
    "lii_current": "2023-07-21",
-   "ours": "2023-07-21",
-   "ok": true
+   "ok": true,
+   "ours": "2023-07-21"
+  },
+  "constitution": [
+   {
+    "changed": 0,
+    "credited": 0,
+    "from": "2014-10-13",
+    "units": 167
+   }
+  ],
+  "constitution:listing": {
+   "lii_current": "2014-10-13",
+   "ok": true,
+   "ours": "2014-10-13"
+  },
+  "labour": [
+   {
+    "changed": 0,
+    "credited": 0,
+    "from": "2012-08-01",
+    "units": 165
+   },
+   {
+    "changed": 1,
+    "credited": 1,
+    "from": "2023-03-15",
+    "units": 165
+   }
+  ],
+  "labour:listing": {
+   "lii_current": "2023-03-15",
+   "ok": true,
+   "ours": "2023-03-15"
   }
  },
+ "check": {
+  "acts": 3,
+  "backwards": 0,
+  "future_dated": 0,
+  "merges": 0,
+  "mismatches": 0,
+  "missing_in_force": 0,
+  "trailer_errors": 0,
+  "versions": 6
+ },
  "fidelity": {
-  "constitution@2014-10-13": {
-   "units": 167,
-   "units_differing": [],
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": ""
-  },
-  "labour@2012-08-01": {
-   "units": 165,
-   "units_differing": [],
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": ""
-  },
-  "labour@2023-03-15": {
-   "units": 165,
-   "units_differing": [],
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": ""
-  },
   "companies@2017-01-16": {
-   "units": 458,
-   "units_differing": [],
    "text_outside_units_chars": 0,
-   "text_outside_units_sample": ""
+   "text_outside_units_sample": "",
+   "units": 458,
+   "units_differing": []
   },
   "companies@2023-03-15": {
-   "units": 458,
-   "units_differing": [],
    "text_outside_units_chars": 0,
-   "text_outside_units_sample": ""
+   "text_outside_units_sample": "",
+   "units": 458,
+   "units_differing": []
   },
   "companies@2023-07-21": {
-   "units": 459,
-   "units_differing": [],
    "text_outside_units_chars": 0,
-   "text_outside_units_sample": ""
+   "text_outside_units_sample": "",
+   "units": 459,
+   "units_differing": []
+  },
+  "constitution@2014-10-13": {
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": "",
+   "units": 167,
+   "units_differing": []
+  },
+  "labour@2012-08-01": {
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": "",
+   "units": 165,
+   "units_differing": []
+  },
+  "labour@2023-03-15": {
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": "",
+   "units": 165,
+   "units_differing": []
   }
  },
  "law_dates": {

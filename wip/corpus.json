@@ -68,6 +68,39 @@
    "restores": null,
    "note": null
   },
+  "act-2012-2": {
+   "label": "Act 2 of 2012",
+   "title": "Labour Amendment Act, 2012",
+   "kind": "law",
+   "enacted": null,
+   "published": null,
+   "url": "https://namiblii.org/akn/na/act/2012/2",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "act-2014-8": {
+   "label": "Act 8 of 2014",
+   "title": "Namibian Constitution Third Amendment Act",
+   "kind": "law",
+   "enacted": null,
+   "published": null,
+   "url": "https://namiblii.org/akn/na/act/2014/8",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "act-2016-8": {
+   "label": "Act 8 of 2016",
+   "title": "Business and Intellectual Property Authority Act, 2016",
+   "kind": "law",
+   "enacted": null,
+   "published": null,
+   "url": "https://namiblii.org/akn/na/act/2016/8",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
   "act-2022-16": {
    "label": "Act 16 of 2022",
    "title": "Abolition of Payment by Cheque Act, 2022",
@@ -100,7 +133,8 @@
    "first_law": null,
    "earlier_laws": [
     "act-1998-34",
-    "act-2010-7"
+    "act-2010-7",
+    "act-2014-8"
    ],
    "versions": [
     {
@@ -944,7 +978,7 @@
        "text": "# Schedule 8\nRepeal Of Laws\nSouth-West Africa Constitution Act, 1968 (Act No. 39 of 1968)\nRehoboth Self-Government Act, 1976 (Act No. 56 of 1976)\nEstablishment of Office of Administrator-General for the Territory of South-West Africa Proclamation, 1977 (Proclamation No. 180 of 1977 of the State President)\nEmpowering of the Administrator-General for the Territory of South-West Africa to make Laws Proclamation, 1977 (Proclamation No. 181 of 1977 of the State President)\nRepresentative Authorities Proclamation, 1980 (Proclamation AG. 8 of 1980)\nRepresentative Authority of the Whites Proclamation, 1980 (Proclamation AG. 12 of 1980)\nRepresentative Authority of the Coloureds Proclamation, 1980 (Proclamation AG. 14 of 1980)\nRepresentative Authority of the Ovambos Proclamation, 1980 (Proclamation AG. 23 of 1980)\nRepresentative Authority of the Kavangos Proclamation, 1980 (Proclamation AG. 26 of 1980)\nRepresentative Authority of the Caprivians Proclamation, 1980 (Proclamation AG. 29 of 1980)\nRepresentative Authority of the Damaras Proclamation, 1980 (Proclamation AG. 32 of 1980)\nRepresentative Authority of the Namas Proclamation, 1980 (Proclamation AG. 35 of 1980)\nRepresentative Authority of the Tswanas Proclamation, 1980 (Proclamation AG. 47 of 1980)\nRepresentative Authority of the Hereros Proclamation, 1980 (Proclamation AG. 50 of 1980)\nRepresentative Authority Powers Transfer Proclamation, 1989 (Proclamation AG. 8 of 1989)\nGovernment of Rehoboth Powers Transfers Proclamation, 1989 (Proclamation AG. 32 of 1989)\n"
       }
      },
-     "note": "The NamibLII version of 2014-10-13: the act as published."
+     "note": "The NamibLII version of 2014-10-13, the oldest it publishes: the act as amended up to and including Namibian Constitution Third Amendment Act (Act 8 of 2014), which took effect that day."
     }
    ]
   },
@@ -954,7 +988,9 @@
    "title": "Labour Act, 2007",
    "url": "https://namiblii.org/akn/na/act/2007/11",
    "first_law": null,
-   "earlier_laws": [],
+   "earlier_laws": [
+    "act-2012-2"
+   ],
    "versions": [
     {
      "from": "2012-08-01",
@@ -1787,7 +1823,7 @@
        "text": "# 17. Resolution of other transitional matters\n(1) If a matter arises in which, because of the repeal of the previous Act, and the coming into operation of this Act, a question of interpretation of any law is uncertain, a status of any person, action or thing is uncertain, or it is uncertain how to proceed in any matter, and that uncertainty is not addressed in this Schedule, a party may apply to the Labour Court for a declaratory order, and the Court may make any order that is just and reasonable, including an order applying a provision of the previous Act, despite its repeal.\n(2) A party applying to the Labour Court in terms of sub-item (1) must serve notice of that application on the Permanent Secretary, the Labour Commissioner, and any other person with an interest in the order sought, and the Permanent Secretary, the Labour Commissioner and each other such person has the rights of a party in that matter before the court.\n"
       }
      },
-     "note": "The NamibLII version of 2012-08-01: the act as published."
+     "note": "The NamibLII version of 2012-08-01, the oldest it publishes: the act as amended up to and including Labour Amendment Act, 2012 (Act 2 of 2012), which took effect that day."
     },
     {
      "from": "2023-03-15",
@@ -1815,7 +1851,8 @@
    "url": "https://namiblii.org/akn/na/act/2004/28",
    "first_law": null,
    "earlier_laws": [
-    "act-2007-9"
+    "act-2007-9",
+    "act-2016-8"
    ],
    "versions": [
     {
@@ -4114,7 +4151,7 @@
        "text": "# Schedule 5\nREPEAL OF LAWS\nNumber and Year of Act | Title | Extent of Repeal\nAct No. 61 of 1973 | Companies Act, 1973 | The whole\nAct No. 76 of 1974 | Companies Amendment Act, 1974 | The whole\nAct No. 111 of 1976 | Companies Amendment Act, 1976 | The whole\nAct No. 114 of 1977 | Revenue Laws Amendment Act, 1977 | Sections 21, 22 and 23\nAct No. 59 of 1978 | Companies Amendment Act, 1978 | The whole\nProclamation No. 234 of 1978 | Registration and Incorporation of Companies in South West Africa Proclamation, 1978 | The whole\nProclamation No. 23 of 1979 | Registration and Incorporation of Companies in South West Africa Amendment Proclamation, 1979 | The whole\nAct No. 3 of 1989 | Companies Amendment Act, 1989 | The whole\nAct No. 1 of 1996 | Married Persons Equality Act, 1996 | Sections 31 and 32\n"
       }
      },
-     "note": "The NamibLII version of 2017-01-16: the act as published."
+     "note": "The NamibLII version of 2017-01-16, the oldest it publishes: the act as amended up to and including Business and Intellectual Property Authority Act, 2016 (Act 8 of 2016), which took effect that day."
     },
     {
      "from": "2023-03-15",
