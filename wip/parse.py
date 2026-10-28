@@ -1,6 +1,6 @@
 """Build Namibia's corpus.json from the cache only, through the shared Peachjam adapter.
 
-    python -X utf8 scripts/zambia-law/parse.py
+    python -X utf8 scripts/namibia-law/parse.py
 
 Reads acts.json (configuration), sources.json (pinned Wayback captures, written by fetch.py) and .cache/; writes
 corpus.json (atomically) and verification.json (the checks). Deterministic: the same cache gives the same bytes.
