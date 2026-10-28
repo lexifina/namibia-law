@@ -1,0 +1,116 @@
+{
+ "lii": "NamibLII",
+ "acts": {
+  "1990/constitution": {
+   "expressions": {
+    "2014-10-13": {
+     "capture": "20260315105337",
+     "original": "https://namiblii.org/akn/na/act/1990/constitution/eng@2014-10-13",
+     "url": "https://web.archive.org/web/20260315105337id_/https://namiblii.org/akn/na/act/1990/constitution/eng@2014-10-13",
+     "sha256": "ba9cdcd565358d1db530933754229505be71e949b845c1671c39df5a0241c85a"
+    }
+   }
+  },
+  "1977/51": {
+   "expressions": {
+    "2014-01-01": {
+     "capture": "20250321075238",
+     "original": "https://namiblii.org/akn/na/act/1977/51/eng@2014-01-01",
+     "url": "https://web.archive.org/web/20250321075238id_/https://namiblii.org/akn/na/act/1977/51/eng@2014-01-01",
+     "sha256": "fba5292fca5216261bb8096fa32e3ff848788a366f28685a31f1fbf2e0ddd040"
+    },
+    "2019-01-30": {
+     "capture": "20250319185259",
+     "original": "https://namiblii.org/akn/na/act/1977/51/eng@2019-01-30",
+     "url": "https://web.archive.org/web/20250319185259id_/https://namiblii.org/akn/na/act/1977/51/eng@2019-01-30",
+     "sha256": "2e8773307157c9168ffa251fb79cacf908bbfcac5e434a3037d84ce07761312e"
+    },
+    "2024-05-15": {
+     "capture": "20260212123527",
+     "original": "https://namiblii.org/akn/na/act/1977/51/eng@2024-05-15",
+     "url": "https://web.archive.org/web/20260212123527id_/https://namiblii.org/akn/na/act/1977/51/eng@2024-05-15",
+     "sha256": "863f36798ad38652b6067b437c15f8486fae587613432bd6e2663c1d8c04d381"
+    }
+   }
+  },
+  "2007/11": {
+   "expressions": {
+    "2012-08-01": {
+     "capture": "20250428180525",
+     "original": "https://namiblii.org/akn/na/act/2007/11/eng@2012-08-01",
+     "url": "https://web.archive.org/web/20250428180525id_/https://namiblii.org/akn/na/act/2007/11/eng@2012-08-01",
+     "sha256": "5db480be7b6eba1078cd5800eabbd3fc2e7a210d89932a865ce3675f48e0d366"
+    },
+    "2023-03-15": {
+     "capture": "20251217122133",
+     "original": "https://namiblii.org/akn/na/act/2007/11/eng@2023-03-15",
+     "url": "https://web.archive.org/web/20251217122133id_/https://namiblii.org/akn/na/act/2007/11/eng@2023-03-15",
+     "sha256": "38598e8911860d08fdcabf022d32a7a509a9f4e416d7f3630152d404d4ab45ed"
+    }
+   }
+  },
+  "2004/28": {
+   "expressions": {
+    "2017-01-16": {
+     "capture": "20250428195608",
+     "original": "https://namiblii.org/akn/na/act/2004/28/eng@2017-01-16",
+     "url": "https://web.archive.org/web/20250428195608id_/https://namiblii.org/akn/na/act/2004/28/eng@2017-01-16",
+     "sha256": "0d8e3571c64d7a2c8810d77cf2a2e6e152de3cd83eaa582a9205820d7e1eec4d"
+    },
+    "2023-03-15": {
+     "capture": "20250718141921",
+     "original": "https://namiblii.org/akn/na/act/2004/28/eng@2023-03-15",
+     "url": "https://web.archive.org/web/20250718141921id_/https://namiblii.org/akn/na/act/2004/28/eng@2023-03-15",
+     "sha256": "6012b1c293e74f555cd79db3d9fb77488a495011403c68241c97f9402a9d0c7d"
+    },
+    "2023-07-21": {
+     "capture": "20251214202040",
+     "original": "https://namiblii.org/akn/na/act/2004/28/eng@2023-07-21",
+     "url": "https://web.archive.org/web/20251214202040id_/https://namiblii.org/akn/na/act/2004/28/eng@2023-07-21",
+     "sha256": "c57eb690db6c2847a8e5f0652ee4f09ecaf8494ba97056fb081066f3c6c5760f"
+    }
+   }
+  }
+ },
+ "laws": {
+  "/akn/na/act/1978/79": null,
+  "/akn/na/act/1979/56": null,
+  "/akn/na/act/1981/15": null,
+  "/akn/na/act/1985/29": null,
+  "/akn/na/act/1985/31": null,
+  "/akn/na/act/1991/5": null,
+  "/akn/na/act/1993/26": null,
+  "/akn/na/act/1998/34": null,
+  "/akn/na/act/2000/8": null,
+  "/akn/na/act/2000/9": null,
+  "/akn/na/act/2001/10": null,
+  "/akn/na/act/2003/24": null,
+  "/akn/na/act/2003/4": null,
+  "/akn/na/act/2003/9": null,
+  "/akn/na/act/2007/9": null,
+  "/akn/na/act/2010/13": null,
+  "/akn/na/act/2010/7": null,
+  "/akn/na/act/2012/2": null,
+  "/akn/na/act/2012/9": null,
+  "/akn/na/act/2014/8": null,
+  "/akn/na/act/2015/3": null,
+  "/akn/na/act/2016/8": null,
+  "/akn/na/act/2022/16": null,
+  "/akn/na/act/2022/4": null,
+  "/akn/na/act/2022/6": null,
+  "/akn/na/act/2023/4": null,
+  "/akn/na/act/2023/7": null,
+  "/akn/na/act/gn/2008/260": null,
+  "/akn/na/act/gn/2009/1": null,
+  "/akn/na/act/gn/2010/172": null,
+  "/akn/na/act/p/1977/r148": null,
+  "/akn/na/act/p/1979/ag3": null
+ },
+ "listings": {
+  "1990/constitution": "https://namiblii.org/en/legislation/?years=1990",
+  "1977/51": "https://namiblii.org/en/legislation/?years=1977",
+  "2007/11": "https://namiblii.org/en/legislation/?years=2007",
+  "2004/28": "https://namiblii.org/en/legislation/?years=2004"
+ },
+ "retrieved": "2026-10-28"
+}
