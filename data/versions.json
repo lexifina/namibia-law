@@ -1,0 +1,65 @@
+{
+ "country": "NA",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Namibian Constitution",
+   "url": "https://namiblii.org/akn/na/act/1990/constitution",
+   "versions": [
+    {
+     "from": "2014-10-13",
+     "units": 164,
+     "source_url": "https://web.archive.org/web/20260315105337id_/https://namiblii.org/akn/na/act/1990/constitution/eng@2014-10-13",
+     "sha256": "ba9cdcd565358d1db530933754229505be71e949b845c1671c39df5a0241c85a"
+    }
+   ]
+  },
+  {
+   "slug": "labour",
+   "short": "Labour Act",
+   "title": "Labour Act, 2007",
+   "url": "https://namiblii.org/akn/na/act/2007/11",
+   "versions": [
+    {
+     "from": "2012-08-01",
+     "units": 165,
+     "source_url": "https://web.archive.org/web/20250428180525id_/https://namiblii.org/akn/na/act/2007/11/eng@2012-08-01",
+     "sha256": "5db480be7b6eba1078cd5800eabbd3fc2e7a210d89932a865ce3675f48e0d366"
+    },
+    {
+     "from": "2023-03-15",
+     "units": 165,
+     "source_url": "https://web.archive.org/web/20251217122133id_/https://namiblii.org/akn/na/act/2007/11/eng@2023-03-15",
+     "sha256": "38598e8911860d08fdcabf022d32a7a509a9f4e416d7f3630152d404d4ab45ed"
+    }
+   ]
+  },
+  {
+   "slug": "companies",
+   "short": "Companies Act",
+   "title": "Companies Act, 2004",
+   "url": "https://namiblii.org/akn/na/act/2004/28",
+   "versions": [
+    {
+     "from": "2017-01-16",
+     "units": 458,
+     "source_url": "https://web.archive.org/web/20250428195608id_/https://namiblii.org/akn/na/act/2004/28/eng@2017-01-16",
+     "sha256": "0d8e3571c64d7a2c8810d77cf2a2e6e152de3cd83eaa582a9205820d7e1eec4d"
+    },
+    {
+     "from": "2023-03-15",
+     "units": 458,
+     "source_url": "https://web.archive.org/web/20250718141921id_/https://namiblii.org/akn/na/act/2004/28/eng@2023-03-15",
+     "sha256": "6012b1c293e74f555cd79db3d9fb77488a495011403c68241c97f9402a9d0c7d"
+    },
+    {
+     "from": "2023-07-21",
+     "units": 459,
+     "source_url": "https://web.archive.org/web/20251214202040id_/https://namiblii.org/akn/na/act/2004/28/eng@2023-07-21",
+     "sha256": "c57eb690db6c2847a8e5f0652ee4f09ecaf8494ba97056fb081066f3c6c5760f"
+    }
+   ]
+  }
+ ]
+}
