@@ -1,0 +1,13 @@
+{
+ "parts": {
+  "20-tax.json": {
+   "acts": [
+    "customs-excise",
+    "income-tax",
+    "vat"
+   ],
+   "sha256": "edc96e6f426c41b7b09838493264faaa70143d8d8c1d2852fde93684fbcfec5b"
+  }
+ },
+ "schema": 1
+}
