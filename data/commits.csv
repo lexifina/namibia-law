@@ -1,0 +1,15 @@
+day,kind,law,acts,files,branch
+2012-08-01,start,,labour,165,main
+2014-10-13,start,,constitution,164,main
+2017-01-16,start,,companies,458,main
+2022-02-23,start,,customs-excise,145,main
+2022-05-04,law,gn-2022-215,customs-excise,1,main
+2023-03-15,start,,income-tax,132,main
+2023-03-15,start,,vat,99,main
+2023-03-15,law,act-2022-16,labour companies,6,main
+2023-07-21,law,act-2023-4,companies,4,main
+2024-09-16,law,act-2024-4,income-tax,16,main
+2024-10-01,law,act-2024-5,vat,3,main
+2024-10-01,law,gn-2024-282,vat,1,main
+2024-10-01,law,gn-2024-283,vat,1,main
+2024-10-01,unexplained,,vat,3,main

@@ -1,0 +1,23 @@
+The legal texts come from NamibLII (Namibia Legal Information Institute: Law Reform and Development Commission, Ministry of Justice, on the Laws.Africa Peachjam platform):
+
+  NamibLII, https://namiblii.org, point-in-time versions of each act, read from archived copies of its
+  pages on the Internet Archive (https://web.archive.org), retrieved 2026-10-28.
+
+Licence and terms, as NamibLII states them: CC BY-NC 4.0, crediting NamibLII as the source (https://namiblii.org/en/terms-of-use/, section 9).
+CC BY-NC 4.0: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+Attribution:
+
+  Source: NamibLII (https://namiblii.org), licensed under the Creative Commons Attribution-NonCommercial 4.0 International licence (CC BY-NC 4.0).
+
+The texts may be used only for non-commercial purposes. This repository is private; whether and how it
+may be published is the owner's decision under these terms.
+
+Changes made by Lexifina: each version was converted to one Markdown file per provision, one paragraph per
+line; spacing, quotes and dashes were normalised; editorial notes, Part and Chapter headings were left out;
+and the versions were arranged as git commits credited to the laws NamibLII names for each change.
+The wording of the law was not changed. Neither NamibLII nor Laws.Africa endorses this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the
+tools) are dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

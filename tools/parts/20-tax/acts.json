@@ -1,0 +1,75 @@
+{
+ "retrieved": "2026-10-29",
+ "lii": {
+  "name": "NamibLII",
+  "hosts": [
+   "namiblii.org"
+  ],
+  "cc": "na",
+  "path_prefixes": [
+   ""
+  ],
+  "listing_prefix": "/en",
+  "listing": false
+ },
+ "cdx_prefixes": [
+  "namiblii.org/akn/na/act/",
+  "www.namiblii.org/akn/na/act/"
+ ],
+ "country": {
+  "code": "NA",
+  "name": "Namibia",
+  "slug": "namibia",
+  "lang": "en",
+  "tz": "Africa/Windhoek",
+  "future_branch": "future",
+  "publisher": {
+   "name": "NamibLII",
+   "email": "namiblii@namiblii.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Not applied: every version is dated by NamibLII's own expression date, the day the amendment it incorporates took effect as Laws.Africa records it. No date is computed from a default rule.",
+   "source": "https://namiblii.org/legislation/"
+  },
+  "licence_note": "Source: NamibLII (https://namiblii.org), licensed under the Creative Commons Attribution-NonCommercial 4.0 International licence (CC BY-NC 4.0)."
+ },
+ "sources": [
+  {
+   "name": "NamibLII (Namibia Legal Information Institute), point-in-time expressions of the Income Tax, Customs and Excise and Value-Added Tax Acts",
+   "url": "https://namiblii.org",
+   "retrieved": "2026-10-29",
+   "licence": "CC BY-NC 4.0, crediting NamibLII as the source (https://namiblii.org/en/terms-of-use/, section 9)",
+   "notes": "Expression pages /akn/na/act/<year>/<num>/eng@<date>, read from Internet Archive copies (pinned capture timestamps and sha256 in the part's sources.json)."
+  }
+ ],
+ "acts": [
+  {
+   "work": "1981/24",
+   "slug": "income-tax",
+   "short": "Income Tax Act",
+   "title": "Income Tax Act, 1981",
+   "label": "Act 24 of 1981",
+   "max_tries": 4
+  },
+  {
+   "work": "1998/20",
+   "slug": "customs-excise",
+   "short": "Customs and Excise Act",
+   "title": "Customs and Excise Act, 1998",
+   "label": "Act 20 of 1998",
+   "max_tries": 4
+  },
+  {
+   "work": "2000/10",
+   "slug": "vat",
+   "short": "VAT Act",
+   "title": "Value-Added Tax Act, 2000",
+   "label": "Act 10 of 2000",
+   "max_tries": 4
+  }
+ ],
+ "decisions": [],
+ "ai_use": [
+  "Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the fetch script and configuration and chose the acts. No model wrote, summarised or transformed legal text: parse.py is the shared adapter's deterministic code."
+ ]
+}
