@@ -67,8 +67,32 @@ def same_day_amendments(corpus: dict) -> None:
     corpus["laws"] = dict(sorted(corpus["laws"].items()))
 
 
+BASIC_KEY = re.compile(r"^(?:[a-z0-9-]*-)?(?:art|sec|sch|rule|reg)-")
+
+
+def editorial_only(corpus: dict) -> list[str]:
+    """Drop units that are only a NamibLII editorial note on a container, not law: the Constitution's preface holds
+    only a commencement note on the Second Amendment Act, and Chapters 10A and 10B only "[Chapter 10A ... is inserted
+    by ...]" (the adapter keys these 'long-title', 'text', 'text-2'). A provision (art-, sec-, sch-) whose only text is
+    its note stays: that is a repealed provision as the LII prints it."""
+    dropped = []
+    for act in corpus["acts"]:
+        for v in act["versions"]:
+            for field in ("units", "changes"):
+                for k, u in list((v.get(field) or {}).items()):
+                    if u is None or BASIC_KEY.match(k):
+                        continue
+                    body = u["text"].rstrip("\n").split("\n")[1:]
+                    if body and body[0].startswith("[") and body[-1].endswith("]"):
+                        del v[field][k]
+                        v.get("credits", {}).pop(k, None)
+                        dropped.append(f"{act['slug']}@{v['from']}:{k}")
+    return dropped
+
+
 corpus, report = peachjam.parse(HERE)
 same_day_amendments(corpus)
+report["editorial_only_dropped"] = editorial_only(corpus)
 for attempt in range(10):  # autopush may be reading corpus.json at the moment of the rename (Windows)
     try:
         peachjam.write_corpus(HERE, corpus)
