@@ -59,6 +59,7 @@ Each change is credited to the law that made it, as NamibLII names it (`Act 16 o
 - Every version is read from an archived copy of exactly that dated NamibLII page, whose sha256 is recorded with it; every text of a version, except the headings and notes left out, is checked to be in a provision file.
 - A second build from the same corpus gave the same hashes for all 14 history commits and 19 tags.
 - History is append-only: no merge commits, no commit dates that go backwards, and none after the build.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -80,6 +81,10 @@ Each change is credited to the law that made it, as NamibLII names it (`Act 16 o
 See [`LICENSE`](LICENSE). NamibLII licenses its content under CC BY-NC 4.0, crediting NamibLII as the source (its terms of use, section 9), so the texts may be used only for non-commercial purposes. Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are CC0 1.0.
 
 No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
